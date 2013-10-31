@@ -13,4 +13,4 @@
 由于对markdown语法有一定的了解，因而我将全程用[markdown语法](http://daringfireball.net/projects/markdown/syntax#link)来书写翻译。
 但我采用的是[github风格的markdown语法](https://help.github.com/articles/github-flavored-markdown)，有兴趣的朋友可以去学习一下markdown语法。
 <br />
-翻译后的所有教程都托管在我的[gitshell](https://gitshell.com)仓库[wxWidgetsTranslation](https://gitshell.com/phm/wxWidgetsTranslation)上。
+翻译后的所有教程都托管在我的[github](https://github.com/phmfk)仓库[wxWidgetsTranslation](https://github.com/phmfk/wxWidgetsTranslation)上。
